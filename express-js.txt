@@ -35,3 +35,17 @@ features:
     generally we get smaller updates in library and 
     easier to maintain a 
     example of our library is react and loadash
+
+///////////////////////////////////// 
+
+What is framework
+ it is a compressive set of tools libraries and best practices for building application 
+ 
+features:
+    framework calls developers code framework 
+    flexility lower compared to library 
+    when we compared to library it is hard to learn 
+    framework updates are large and need more refer to maintain 
+    example for framework angular express
+
+///////////////////////////////////// 
