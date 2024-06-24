@@ -1,0 +1,37 @@
+expreess is a node.js web application framework
+it provide 
+1. robustness
+2. features to bulid applications
+
+features:
+1. middleware
+2. routing
+3. templating
+4. error handling
+5. extensibility
+
+/////////////////////////////////////
+
+steps to install expreess
+1. 1st we should install node in our laptop
+2. in  terminal do below steps
+  1.sudo npm install -g express-api-cli
+  2.sudo exp-api create awesome-project
+
+/////////////////////////////////////
+
+express-api-cli
+    it is a command line tool to genrate boilerplate code fpr expressapi project
+
+///////////////////////////////////// 
+
+What is library 
+library's collection of functions under routines for specific tasks 
+
+features:
+    Devloper call is the library function 
+    flexibility is high in library 
+    library is easy to learn 
+    generally we get smaller updates in library and 
+    easier to maintain a 
+    example of our library is react and loadash
