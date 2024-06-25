@@ -52,3 +52,7 @@ features:
 
 ecma script standard 
 It is officially known as acmar 262 is a specification that defines the core futures and behaviours of scripting language this standard crucial for ensuring consistency and interpolubility across different implementation of scripping language such as JavaScript
+
+/////////////////////////////////////
+
+package.json:
